@@ -9,6 +9,7 @@ Incluye ejemplos variados de código básico, tales como:
 
 - **Suma:** el programa basico para empezar, ejercicio Basico.  
 - **Tablas de multiplicar:** genera la tabla de un número hasta el límite definido por el usuario. 
+- **Juego de adivinanza:** el programa genera un número aleatorio y el usuario debe adivinarlo.
 
 ## Objetivo
 
