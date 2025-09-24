@@ -11,6 +11,7 @@ Incluye ejemplos variados de código básico, tales como:
 - **Tablas de multiplicar:** genera la tabla de un número hasta el límite definido por el usuario. 
 - **Juego de adivinanza:** el programa genera un número aleatorio y el usuario debe adivinarlo.
 - **Simulador de dados:** permite lanzar múltiples dados con un número definido de caras y muestra el resultado de cada dado junto con la suma total.
+- **Promedio de notas:** solicita al usuario ingresar varias calificaciones y calcula el promedio final.
 
 ## Objetivo
 
