@@ -7,7 +7,8 @@ Este espacio refleja mi proceso de aprendizaje, combinando teoría y práctica p
 
 Incluye ejemplos variados de código básico, tales como:
 
-- **Suma:** el programa basico para empezar, ejercicio Basico.
+- **Suma:** el programa basico para empezar, ejercicio Basico.  
+- **Tablas de multiplicar:** genera la tabla de un número hasta el límite definido por el usuario. 
 
 ## Objetivo
 
