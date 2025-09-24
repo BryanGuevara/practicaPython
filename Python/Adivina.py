@@ -1,11 +1,13 @@
 import random
 
+division = 30
+
 limit = 100
 numRan = random.randint(1,limit)
 numPlayer = -1
 intentos = 0
 
-numPlayer = int(input(f"Estoy pendando en un numero entre el 1 y el {limit}: "))
+numPlayer = int(input("=" * division + f"\nEstoy pendando en un numero entre el 1 y el {limit}: "))
 
 while numRan != numPlayer:
   if numRan > numPlayer:
@@ -16,4 +18,5 @@ while numRan != numPlayer:
   intentos = intentos + 1 
   
   
-print(f"¡Felicidades! era el {numRan}\nNumero de intentos: {intentos}")
+print("=" * division + f"\n¡Felicidades! era el {numRan}")
+print(f"Numero de intentos: {intentos}\n" + "=" * division)
