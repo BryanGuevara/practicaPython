@@ -12,6 +12,7 @@ Incluye ejemplos variados de código básico, tales como:
 - **Juego de adivinanza:** el programa genera un número aleatorio y el usuario debe adivinarlo.
 - **Simulador de dados:** permite lanzar múltiples dados con un número definido de caras y muestra el resultado de cada dado junto con la suma total.
 - **Promedio de notas:** solicita al usuario ingresar varias calificaciones y calcula el promedio final.
+- **Notas Músicales:** toma una palabra ingresada por el usuario y asigna a cada letra una nota musical según su posición en el alfabeto, usando una escala de 12 notas.
 
 ## Objetivo
 
